@@ -1,8 +1,8 @@
 ## Hey \o/ Weclome to my non-fonctionnal webite
 
-This is only some front-end
+This is only some front-end.
 You can see the actual result here https://greshym.github.io/Clothe_Store/
-Have fun
+. Have fun
 
 ## Welcome to GitHub Pages
 
