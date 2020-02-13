@@ -166,18 +166,6 @@ a {
   opacity: 0.8;
   margin-bottom: 5px;
 }
-.window1:active .content1 {
-  display: block;
-}
-.window1:active .content2 {
-  display: none;
-}
-.window1:active .content3 {
-  display: none;
-}
-.windows1:active .content4 {
-  display: none;
-}
 .window2 {
   height: 35px;
   width: 17%;
@@ -194,18 +182,6 @@ a {
   background-color: #D94936;
   opacity: 0.8;
   margin-bottom: 5px;
-}
-.window2:active .content1 {
-  display: none;
-}
-.window2:active .content2 {
-  display: block;
-}
-.window2:active .content3 {
-  display: none;
-}
-.windows2:active .content4 {
-  display: none;
 }
 .window3 {
   height: 35px;
@@ -224,18 +200,6 @@ a {
   opacity: 0.8;
   margin-bottom: 5px;
 }
-.window3:active .content1 {
-  display: none;
-}
-.window3:active .content2 {
-  display: none;
-}
-.window3:active .content3 {
-  display: block;
-}
-.windows3:active .content4 {
-  display: none;
-}
 .window4 {
   height: 35px;
   width: 17%;
@@ -252,18 +216,6 @@ a {
   background-color: #D94936;
   opacity: 0.8;
   margin-bottom: 5px;
-}
-.window4:active .content1 {
-  display: none;
-}
-.window4:active .content2 {
-  display: none;
-}
-.window4:active .content3 {
-  display: none;
-}
-.windows4:active .content4 {
-  display: block;
 }
 .window_cont {
   height: 40px;
@@ -292,63 +244,6 @@ a {
   justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
-  border-radius: 8px;
-}
-.content2 {
-  height: 1000px;
-  width: auto;
-  min-width: 600px;
-  padding-left: 5%;
-  padding-right: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
-  background-color: #FFA07A;
-  opacity: 0.9;
-  box-shadow: 6px 2px 13px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-  display: none;
-  border-radius: 8px;
-}
-.content3 {
-  height: 1000px;
-  width: auto;
-  min-width: 600px;
-  padding-left: 5%;
-  padding-right: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
-  background-color: #FFA07A;
-  opacity: 0.9;
-  box-shadow: 6px 2px 13px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-  display: none;
-  border-radius: 8px;
-}
-.content4 {
-  height: 1000px;
-  width: auto;
-  min-width: 600px;
-  padding-left: 5%;
-  padding-right: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
-  background-color: #FFA07A;
-  opacity: 0.9;
-  box-shadow: 6px 2px 13px;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-  flex-wrap: wrap;
-  display: none;
   border-radius: 8px;
 }
 .fiche {
